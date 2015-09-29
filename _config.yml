@@ -16,7 +16,6 @@ google-tracking-id: "UA-65229806-2"
 pages_list:
   About: 'about'
   Blog: 'blog'
-  Career: 'career'
   Contact: 'contact'
 
 # Enable minification SASS
