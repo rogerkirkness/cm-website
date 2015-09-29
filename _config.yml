@@ -24,10 +24,6 @@ sass:
 
 background-img: "../img/intro-bg.jpg"
 
-# About variables
-
-me-img: ""
-
 # Blog variables
 
 paginate: 5
