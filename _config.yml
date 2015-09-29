@@ -12,6 +12,7 @@ google-tracking-id: "UA-65229806-2"
 # Navigation bar links
 # Blog link in the blog and post pages will point to the blog.html#blog
 # In the default page it will point to the preview of the last post
+me-img: "/img/jetpacktocat.png"
 
 pages_list:
   About: 'about'
