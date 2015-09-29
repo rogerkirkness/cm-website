@@ -1,15 +1,13 @@
 # Site settings
 
-author: "John Smith"
-url: "http://panossakkos.github.io/personal-jekyll-theme/"
+author: "Catchmate"
+url: "http://catchmate.ca"
 lang: "en"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+title: "Catchmate"
+description: "Easy to use weigh label software for food companies with catch weight products"
+keywords: "catchweight, food, weigh, label"
 favicon: "/img/favicon.ico"
-black-favicon: "/img/black-lab-glass.ico"
-google-tracking-id: "<YOUR GOOGLE TRACKING ID>"
-disqus-shortname: "<YOUR DISQUS USERNAME>"
+google-tracking-id: "UA-65229806-2"
 
 # Navigation bar links
 # Blog link in the blog and post pages will point to the blog.html#blog
@@ -41,7 +39,7 @@ post-preview-words: 128
 
 fb-share: True
 twitter-share: True
-reddit-share: True
+reddit-share: False
 
 # Career variables
 
@@ -60,14 +58,8 @@ career-img: "/img/career/default.png"
 # Add a url pointing to your profile for earch social network.
 
 social:
-  - title: "github"
-    url: "https://github.com/"
   - title: "linkedin"
-    url: "http://no.linkedin.com/"
-  - title: "youtube"
-    url: "http://youtube.com/"
-  - title: "rss"
-    url: "/feed.xml"
+    url: "http://www.linkedin.com/in/rogerkirkness"
 
 404-img: "/img/labtocat.png"
 
