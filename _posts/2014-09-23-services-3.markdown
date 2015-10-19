@@ -2,7 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: Item and Customer Master
+title: Production Report
 description: |
 ---
-Catchmate allows easy item and customer setup for managing static information and displaying it on your labels.
+Catchmate's reporting engine allows you to analyze production volume by date range. 
