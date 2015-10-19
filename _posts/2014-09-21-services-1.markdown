@@ -5,4 +5,4 @@ category: Services
 title: Create GS1-128 Labels
 description: |
 ---
-  Catchmate lets your create industry standard GS1-128 case labels for both fixed and variable weight meat products. 
+  Catchmate generates industry standard GS1-128 case labels for both fixed and variable weight meat products. 
