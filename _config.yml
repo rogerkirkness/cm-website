@@ -1,67 +1,32 @@
-# Site settings
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
 
-author: "Catchmate"
-url: "http://catchmate.ca"
-lang: "en"
-title: "Catchmate"
-description: "Easy to use weigh label software for food companies with catch weight products"
-keywords: "catchweight, food, weigh, label"
-favicon: "/img/favicon.ico"
-google-tracking-id: "UA-65229806-2"
+url: http://yoursite.com
+title: Your Awesome Site
+email: your-email@domain.com
+author: Your Name
+description: > # "Write an awesome description for your new site here. 
+  You can edit this line in _config.yml. It will appear in your document 
+  head meta (for Google search results) and in your feed.xml site 
+  description."
 
-# Navigation bar links
-# Blog link in the blog and post pages will point to the blog.html#blog
-# In the default page it will point to the preview of the last post
-me-img: "/img/jetpacktocat.png"
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
 
-pages_list:
-  About: 'about'
-  Blog: 'blog'
-  Contact: 'contact'
+# Build settings
+markdown: kramdown
+permalink: pretty
 
-# Enable minification SASS
-sass:
-  style: compressed
-
-background-img: "../img/intro-bg.jpg"
-
-# Blog variables
-
-# About variables
-
-me-img: "/img/jetpacktocat.png"
-
-paginate: 5
-
-paginate_path: "blog/page:num"
-
-post-preview-words: 128
-
-fb-share: True
-twitter-share: True
-reddit-share: False
-
-# Career variables
-
-events:
-  - image: "/img/career/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/career/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
-
-# First image of the Career timeline
-career-img: "/img/career/default.png"
-
-# Social networks variables (many more available: facebook, flickr, dribbble, pinterest, instagram, tumblr etc.)
-# Add a url pointing to your profile for earch social network.
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
 
 social:
-  - title: "linkedin"
-    url: "http://www.linkedin.com/in/rogerkirkness"
-
-404-img: "/img/labtocat.png"
-
-# Exclusion list from the generated _site
-exclude: ["Rakefile", "LICENSE", "readme.markdown", "vendor"]
+  - title: twitter
+    url: https://twitter.com/SBootstrap
+  - title: github
+    url: https://github.com/IronSummitMedia/startbootstrap
+  - title: linkedin
+    url: 
