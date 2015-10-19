@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ipad.png
+img: service1.png
 category: Services
 title: Create GS1-128 Labels
 description: |
