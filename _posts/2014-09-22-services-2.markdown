@@ -2,7 +2,7 @@
 layout: default
 img: service3.png
 category: Services
-title: Print Case Labels
+title: Built-in Scale Integration
 description: |
 ---
  Catchmate integrates directly with Matrix scales to make it as easy as possible to capture weight information.
