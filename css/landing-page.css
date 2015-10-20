@@ -165,7 +165,7 @@ p.copyright {
     margin: 15px 0 0;
 }
 
-.navbar-default {
+.navbar-default .navbar-fixed-top {
     background-color: #2895F1;
     border: 0px;
     height: 40px;
