@@ -164,3 +164,9 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+.navbar-default {
+    background-color: #2895F1;
+    color: white;
+    height: 40px;
+}
