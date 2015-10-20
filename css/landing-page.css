@@ -167,6 +167,7 @@ p.copyright {
 
 .navbar-default {
     background-color: #2895F1;
+    border: 0px;
     color: white;
     height: 40px;
 }
