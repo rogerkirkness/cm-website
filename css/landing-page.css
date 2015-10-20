@@ -168,6 +168,15 @@ p.copyright {
 .navbar-default {
     background-color: #2895F1;
     border: 0px;
-    color: white;
     height: 40px;
+}
+
+.navbar-default .navbar-brand {
+    color: #FFF;
+    background-color: transparent;
+}
+
+.navbar-default .navbar-brand:focus {
+    color: #FFF;
+    background-color: transparent;
 }
