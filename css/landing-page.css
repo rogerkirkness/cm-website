@@ -165,10 +165,13 @@ p.copyright {
     margin: 15px 0 0;
 }
 
+.navbar {
+    height: 30px;
+}
+
 .navbar-default {
     background-color: #2895F1;
     border: 0px;
-    height: 30px;
 }
 
 .navbar-default .navbar-brand {
