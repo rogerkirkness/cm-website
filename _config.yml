@@ -1,25 +1,10 @@
-# ----------------------- #
-#      Main Configs       #
-# ----------------------- #
-
 url: http://catchmate.ca
 title: Catchmate
-email: roger@minotaursoftware.com
-author: Catchmate by Minotaur Softgare
-description: > # "Catchmate is the easiest way to case label your variable and fixed weight food items"
-
-# ----------------------- #
-#    Jekyll & Plugins     #
-# ----------------------- #
-
-# Build settings
+email: roger@catchmate.ca
+author: Catchmate
+description: > # "Catchmate allows food processors to easily track production and label variable weight cases of product with GS1-128 case labels."
 markdown: kramdown
 permalink: pretty
-
-# ----------------------- #
-#   3rd Party Settings    #
-# ----------------------- #
-
 social:
   - title: twitter
     url: 
