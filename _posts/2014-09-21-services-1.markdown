@@ -2,7 +2,7 @@
 layout: default
 img: service1.png
 category: Services
-title: Print GS1-128 Case Labels
+title: Print Case Labels
 description: |
 ---
-  Catchmate generates industry standard GS1-128 case labels for both fixed and variable weight meat products. 
+  Catchmate helps you make industry standard (GS1-128) case labels for fixed and variable cases of food.
