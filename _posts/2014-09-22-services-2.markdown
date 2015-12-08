@@ -5,4 +5,4 @@ category: Services
 title: Instant Weight Capture
 description: |
 ---
- Catchmate integrates directly with Matrix scales to make it as easy as possible to capture weight information.
+Catchmate talks to Matrix scales so you get accurate weight information with less data entry
