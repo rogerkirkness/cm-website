@@ -1,4 +1,3 @@
-
 ---
 layout: default
 img: service4.png
