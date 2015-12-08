@@ -5,4 +5,4 @@ category: Services
 title: Production Report
 description: |
 ---
-Catchmate's reporting engine allows you to analyze production volume by date range. 
+Catchmate shows you what you made by item or customer for any dates you choose.
