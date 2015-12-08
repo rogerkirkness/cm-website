@@ -5,4 +5,4 @@ category: Services
 title: Instant Weight Capture
 description: |
 ---
-Catchmate talks to Matrix scales so you get accurate weight information with less data entry
+Catchmate talks directly to Matrix scales so you automatically capture accurate weight information.
