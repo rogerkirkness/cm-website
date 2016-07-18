@@ -189,3 +189,11 @@ p.copyright {
     padding-top: 20px;
     color: #FFF;
 }
+
+.navbar .navbar-inner {
+    text-align: center;
+}
+.navbar .navbar-inner .nav {
+    float: none;
+    display:inline-block;
+}
