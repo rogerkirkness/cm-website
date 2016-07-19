@@ -1,6 +1,3 @@
-url: http://catchmate.ca
-title: Catchmate
-email: roger@minotaursoftware.com
-description: > # "Catchmate allows food processors to easily track production and label variable weight cases of product with GS1-128 case labels."
+url: https://catchmate.ca
 markdown: kramdown
 permalink: pretty
