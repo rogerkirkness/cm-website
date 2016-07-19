@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: index
 img: service2.png
 category: Services
 title: Track & Trace Production
-description: |
 ---
 Track production by customer or item or review trace of which products went to each customer.
