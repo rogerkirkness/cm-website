@@ -1,8 +1,0 @@
----
-layout: default
-img: service1.png
-category: Services
-title: Print Case Labels
-description: |
----
-Weigh variable or fixed weight cases to print UPC, GS1-128, skid labels and various other formats.
