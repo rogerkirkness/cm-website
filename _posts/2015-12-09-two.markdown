@@ -1,7 +1,0 @@
----
-layout: index
-img: service3.png
-category: Services
-title: Easy scale integration
----
-Hardware add-on makes any existing scale a Catchmate smart scale.
