@@ -2,7 +2,7 @@
 layout: default
 img: service3.png
 category: Services
-title: Capture Product Weight
+title: Easy scale integration
 description: |
 ---
-Catchmate talks directly to Matrix scales so you automatically capture accurate weight information.
+Hardware add-on makes any existing scale a Catchmate smart scale.
