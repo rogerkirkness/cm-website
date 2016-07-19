@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: index
 img: service4.png
 category: Services
 title: Access Anywhere
