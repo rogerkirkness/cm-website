@@ -93,11 +93,6 @@ h6 {
     border-bottom: 1px solid #e7e7e7;
 }
 
-.content-section-c {
-    padding: 50px 0;
-    background-color: #C0C0C0;
-}
-
 .section-heading {
     margin-bottom: 30px;
 }
@@ -141,16 +136,6 @@ h6 {
         margin: 0;
         text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
         font-size: 3em;
-    }
-
-    ul.banner-social-buttons > li {
-        display: block;
-        margin-bottom: 20px;
-        padding: 0;
-    }
-
-    ul.banner-social-buttons > li:last-child {
-        margin-bottom: 0;
     }
 }
 
