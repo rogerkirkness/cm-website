@@ -3,7 +3,6 @@
 <head>
     <title>Catchmate</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="data:;base64,iVBORw0KGgo=">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/landing-page.css" rel="stylesheet">
 </head>
@@ -50,7 +49,6 @@
 	</div>
 </section>
 <section id="product">
-<!-- Page Content -->
 {% for post in site.posts reversed %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
@@ -67,11 +65,8 @@
                     <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
                 </div>
             </div>
-
         </div>
-        <!-- /.container -->
     </div>
-    <!-- /.content-section-a -->
     {% else %}
     <div class="content-section-b">
         <div class="container">
@@ -86,12 +81,8 @@
                   <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
                 </div>
             </div>
-
         </div>
-        <!-- /.container -->
-
     </div>
-    <!-- /.content-section-b -->
     {% endif %}
 {% endfor %}
 </section>
