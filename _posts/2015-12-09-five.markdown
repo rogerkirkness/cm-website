@@ -1,7 +1,0 @@
----
-layout: index
-img: service5.png
-category: Services
-title: Built for Food Processors
----
-Catchmate can scale to all sizes of food processing environment.
