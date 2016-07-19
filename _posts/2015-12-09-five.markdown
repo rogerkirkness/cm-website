@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: index
 img: service5.png
 category: Services
 title: Built for Food Processors
