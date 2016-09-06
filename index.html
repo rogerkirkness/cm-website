@@ -127,60 +127,65 @@
       </div>
       <div class="container-fluid" style="background-color:#2e6da4;text-align:center;padding-top:100px;padding-bottom:100px;">
         <div class="row">
-          <form class="form-inline">
-            <input type='text' style='display:none;' name='xnQsjsdp' value='9a404064ed7cda55bcbc4758d9287c9baa74c57e0061e084cb78c64ed2a35468'/>
+          <form class="form-inline" action='https://crm.zoho.com/crm/WebToLeadForm' name=WebToLeads2039382000000175001 method='POST'
+            onSubmit='javascript:document.charset="UTF-8"; return checkMandatory()' accept-charset='UTF-8'>
+            <input type='text' style='display:none;' name='xnQsjsdp' value='9a404064ed7cda55bcbc4758d9287c9baa74c57e0061e084cb78c64ed2a35468'
+            />
             <input type='hidden' name='zc_gad' id='zc_gad' value='' />
-            <input type='text' style='display:none;' name='xmIwtLD' value='1fa20c719a3f632949abe731cdcbf4ec24e27652f09dd256b43048f1cf2d33f4'/>
+            <input type='text' style='display:none;' name='xmIwtLD' value='1fa20c719a3f632949abe731cdcbf4ec24e27652f09dd256b43048f1cf2d33f4'
+            />
             <input type='text' style='display:none;' name='actionType' value='TGVhZHM=' />
             <input type='text' style='display:none;' name='returnURL' value='https&#x3a;&#x2f;&#x2f;catchmate.ca' />
-            <button style="padding-right:20px;" type="button" class="btn btn-default">Sales: 1-650-263-1867</button>
+            <button type="button" class="btn btn-default">Sales: 1-650-263-1867</button>
             <a href="mailto:hello@catchmate.ca?Subject=Catchmate Demo"><button type="button" class="btn btn-success">Request Demo</button></a>
-            <input class="form-control" style="width: 250px;" type='text' maxlength='80' name='Last Name' placeholder='Get email updates...' />
+            <input class="form-control" style="width: 250px;" type='text' maxlength='80' name='Last Name' placeholder='Get email updates...'
+            />
             <input class="btn btn-primary" type='submit' value='Submit' />
             <script>
-            var mndFileds=new Array('Last Name');
-            var fldLangVal=new Array('Email');
-            var name='';
-            var email='';
-            function checkMandatory() {
-            for(i=0;i<mndFileds.length;i++) {
-              var fieldObj=document.forms['WebToLeads2039382000000175001'][mndFileds[i]];
-              if(fieldObj) {
-              if (((fieldObj.value).replace(/^\s+|\s+$/g, '')).length==0) {
-              if(fieldObj.type =='file')
-                { 
-                alert('Please select a file to upload.'); 
-                fieldObj.focus(); 
-                return false;
-                } 
-              alert(fldLangVal[i] +' cannot be empty.'); 
-                      fieldObj.focus();
-                      return false;
-              }  else if(fieldObj.nodeName=='SELECT') {
-                    if(fieldObj.options[fieldObj.selectedIndex].value=='-None-') {
-                alert(fldLangVal[i] +' cannot be none.'); 
-                fieldObj.focus();
-                return false;
-                }
-              } else if(fieldObj.type =='checkbox'){
-              if(fieldObj.checked == false){
-                alert('Please accept  '+fldLangVal[i]);
-                fieldObj.focus();
-                return false;
-                } 
-              } 
-              try {
-                  if(fieldObj.name == 'Last Name') {
-                name = fieldObj.value;
-                  }
-              } catch (e) {}
-                }
-            }
-          } 
-          </script>
+ 	  var mndFileds=new Array('Last Name');
+ 	  var fldLangVal=new Array('Email');
+		var name='';
+		var email='';
+
+ 	  function checkMandatory() {
+		for(i=0;i<mndFileds.length;i++) {
+		  var fieldObj=document.forms['WebToLeads2039382000000175001'][mndFileds[i]];
+		  if(fieldObj) {
+			if (((fieldObj.value).replace(/^\s+|\s+$/g, '')).length==0) {
+			 if(fieldObj.type =='file')
+				{ 
+				 alert('Please select a file to upload.'); 
+				 fieldObj.focus(); 
+				 return false;
+				} 
+			alert(fldLangVal[i] +' cannot be empty.'); 
+   	   	  	  fieldObj.focus();
+   	   	  	  return false;
+			}  else if(fieldObj.nodeName=='SELECT') {
+  	   	   	 if(fieldObj.options[fieldObj.selectedIndex].value=='-None-') {
+				alert(fldLangVal[i] +' cannot be none.'); 
+				fieldObj.focus();
+				return false;
+			   }
+			} else if(fieldObj.type =='checkbox'){
+ 	 	 	 if(fieldObj.checked == false){
+				alert('Please accept  '+fldLangVal[i]);
+				fieldObj.focus();
+				return false;
+			   } 
+			 } 
+			 try {
+			     if(fieldObj.name == 'Last Name') {
+				name = fieldObj.value;
+ 	 	 	    }
+			} catch (e) {}
+		    }
+		}
+	     }
+	   
+</script>
           </form>
         </div>
-
       </div>
   </section>
   <script src="jquery-1.11.0.js"></script>
