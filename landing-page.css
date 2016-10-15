@@ -150,3 +150,7 @@ p.copyright {
 .navbar-default .navbar-nav > li > a {
     color: #777;
 }
+
+.label {
+    font-size: 20pt;
+}
